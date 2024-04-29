@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "N56F5F53L4.br.com.vivo.vivocasainteligente",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
