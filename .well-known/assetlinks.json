@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vivo.test.deeplinkCookbook",
+    "sha256_cert_fingerprints":
+    ["85:78:C8:01:3A:EB:35:00:93:B2:78:99:5B:15:FC:15:26:E4:01:D3:B3:21:D3:E0:67:E6:EB:56:93:96:A4:2B"]
+  }
+}]
